@@ -1,0 +1,13 @@
+I have a [project type] that needs script-oriented deployment to Azure.
+
+**Requirements:**
+- Follow the PowerShell Deployment Style Guide
+- Target [Azure services]
+- Include [specific features]
+
+**Attached:**
+- PowerShell Deployment Style Guide
+- Project file structure
+- [Any existing Bicep/config files]
+
+**Generate:** Complete deployment pipeline with infrastructure, build, deploy, and cleanup scripts.
